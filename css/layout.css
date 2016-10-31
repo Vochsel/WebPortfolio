@@ -1,0 +1,32 @@
+body {
+	margin: 4vw;
+	font-family: 'Open Sans', sans-serif;
+
+
+}
+
+#container {
+	clear: both;
+	overflow: hidden;
+	/*display: table;*/
+}
+
+#nav {
+	/*box-sizing: border-box;*/
+	display: block;
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin: 0.5vw;
+	/*background-color: gray;*/
+	clear: both;
+	margin-right: 4vw;
+}
+
+#content {
+	/*box-sizing: border-box;*/
+	width: 70%;
+	height: 100%;
+	float: left;
+
+}
