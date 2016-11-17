@@ -1,0 +1,21 @@
+{
+	"posts" : 
+	[
+		{
+			"meta"		:
+			{
+				"category" 	: ["Shaders"],
+				"tags" 		: ["Art", "WebGL"],
+				"date"		: "19/05/2016",
+			},
+			"thumb"		: 
+			{
+				"type" 	: "shadertoy",
+				"id"	: "fj8aV8asd"
+			},
+			"title"		: "Water's Edge",
+			"blurb"		: "Realtime raymarching shader showcasing some faked water effects.",
+			"desc"		: "This is created by raymarching a sphere with a displacement effect."
+		}
+	]
+}
